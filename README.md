@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1894-merge-strings-alternately) |
