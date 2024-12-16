@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0283-move-zeroes) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1798-max-number-of-k-sum-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
