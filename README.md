@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rex69690/LEET-CODE-75-150/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/rex69690/LEET-CODE-75-150/tree/master/0605-can-place-flowers) |
 ## Sliding Window
 |  |
 | ------- |
